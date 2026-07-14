@@ -2,7 +2,7 @@
 
 <style>
 .wave {
-    animation: waveMove 2s linear infinite;
+    animation: waveMove 2s ease-out infinite;
     transform-origin: center;
 }
 
