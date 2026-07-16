@@ -11301,7 +11301,16 @@ p.artigo-capitular:nth-of-type(5)::first-letter {
     margin-right: 0.05em; /* Espaçamento entre a letra e o texto */
     line-height: 0.8;      /* Ajuste de altura para evitar desalinhamento */
 }
-
+p.intertitulo {
+	font-weight:900;
+	font-family:"Nunito Sans 12pt",sans-serif;
+	font-size:24px;
+	line-height:30px;
+	color:#4fad33;
+	text-transform:uppercase;
+	text-align:left;
+	margin-top:20px;
+}
 span.saiba-bold {
 	font-weight:bold;
 	font-family:"Nunito Sans",sans-serif;
